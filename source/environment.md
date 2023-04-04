@@ -83,9 +83,9 @@ poetry config --local virtualenvs.in-project true
 ```bash
 poetry config virtualenvs.in-project true
 ```
-````
 
-> https://python-poetry.org/docs/configuration#virtualenvsin-project
+> 参考: [virtualenvs.in-project](https://python-poetry.org/docs/configuration#virtualenvsin-project)
+````
 
 Poetryの環境にインストールします。
 

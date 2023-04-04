@@ -11,6 +11,10 @@ GitHub Actionsでカバレッジを表示するハンズオン
    :caption: Contents:
 
    environment
+   hello-github_actions
+   run-coverage
+   github-pages
+   add-readme
 
 
 Indices and tables
