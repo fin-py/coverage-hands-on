@@ -1,7 +1,22 @@
 (content:references:environment)=
 # 環境構築
 
-[connpass-client](https://github.com/fin-py/connpass-client) を `git clone` し、カレントディレクトリを移動します。
+
+connpass-clientをforkします
+
+https://github.com/fin-py/connpass-client
+
+![](https://i.imgur.com/B5KnRhS.png)
+
+![](https://i.imgur.com/K8vm1DM.png)
+
+
+`Settings` -> `Actions` -> `Workflow permissions` から `Read and write permissions` を選択して `Save` します
+
+![](https://i.imgur.com/Ah24poc.png)
+
+
+forkしたリポジトリをclone し、カレントディレクトリを移動します
 
 ```bash
 git clone https://github.com/fin-py/connpass-client
