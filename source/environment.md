@@ -19,13 +19,8 @@ https://github.com/fin-py/connpass-client
 forkしたリポジトリをclone し、カレントディレクトリを移動します
 
 ```bash
-git clone https://github.com/fin-py/connpass-client
+git clone git@github.com:<your github account>/connpass-client.git
 cd connpass-client
-```
-
-```{note}
-gitコマンドをインストールしていない場合は次のリンクからzipファイルをダウンロードして展開します。
-[https://github.com/fin-py/connpass-client/archive/refs/heads/main.zip](https://github.com/fin-py/connpass-client/archive/refs/heads/main.zip)
 ```
 
 (content:references:environment-venv)=
